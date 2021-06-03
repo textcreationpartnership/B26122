@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Launæus redivivus: or, A true narrative of the admirable effects of Delaun's pill that ancient &amp; excellant Galenick medicine, approved of, and sold for above fifty years, in Black-Fryers, now newly reviv'd, and exposed to sale, at the signe of Delaun's Head there, for the good of all, by especially the poor, whose purses reach not to whole boxes or bottles of physick. For, the patient is not now obliged to expend above six pence to prove the operation of this peerless pill; one being a sufficient dose for most constitutions: yet is above twice as costly, and but half the purchase of any other. With some reflexions on the danger of mercurial medicines, practis'd and invented by ignorant and impudent empericks. As also, a short discourse and description of the scurvy, dropsie, venereal, and other distempers. By Nathaniel Lomax, student in physick.</title>
+            <title>Launæus redivivus.</title>
+            <author>Lomax, Nathaniel.</author>
+         </titleStmt>
+         <extent>Approx. 44KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26122</idno><idno type="EEBO-CITATION">99828982</idno>
+  <idno type="VID">207047</idno>
+  <idno type="EEBO-PROQUEST">2240866201</idno>
+  
+            <idno type="STC">Wing L2842A</idno>
+            <idno type="PROQUEST">99828982</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828982e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26122)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207047)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1971:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Launæus redivivus: or, A true narrative of the admirable effects of Delaun's pill that ancient &amp; excellant Galenick medicine, approved of, and sold for above fifty years, in Black-Fryers, now newly reviv'd, and exposed to sale, at the signe of Delaun's Head there, for the good of all, by especially the poor, whose purses reach not to whole boxes or bottles of physick. For, the patient is not now obliged to expend above six pence to prove the operation of this peerless pill; one being a sufficient dose for most constitutions: yet is above twice as costly, and but half the purchase of any other. With some reflexions on the danger of mercurial medicines, practis'd and invented by ignorant and impudent empericks. As also, a short discourse and description of the scurvy, dropsie, venereal, and other distempers. By Nathaniel Lomax, student in physick.</title>
+                  <title>Launæus redivivus.</title>
+                  <author>Lomax, Nathaniel.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.C. for the author,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>In the title, after the date of publication: With allowance.</note>
+                  <note>Includes postscript.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Delaune, Gideon, 1565?-1659.</term>
+               <term type="topical_term">Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Diseases --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, Popular --  Early works to 1800.</term>
+               <term type="topical_term">Quacks and quackery --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207047:1"/>
+            <p>
+               <hi>LAƲNAEƲS REDIVIVƲS:</hi> OR, A True NARRATIVE Of the Admirable Effects of Delaun's Pill, That Ancient &amp; Excellent <hi>Galenick</hi> Medicine, Approved of, and Sold for above Fifty years, In BLACK-FRYERS, Now newly Reviv'd, And exposed to Sale, at the signe of <hi>Delaun</hi>'s Head there, for the good of <hi>All,</hi> but especially the <hi>Poor,</hi> whose Purses reach not to whole Boxes or Bottles of Physick.</p>
+            <p>FOR, The Patient is not now obliged to expend above Six pence to prove the Operation of this <hi>Peerless</hi> Pill; <hi>One</hi> being a sufficient Dose for most Constitutions: Yet is above twice as costly, and but half the purchase of any other.</p>
+            <p>With some REFLEXIONS On the danger of <hi>Mercurial Medicines,</hi> Practis'd and invented by ignorant and impudent EMPERICKS.</p>
+            <p>As also, A short Discourse and Description of the <hi>Scurvy, Dropsie, Venereal,</hi> and other Distempers.</p>
+            <q>Omne bonum eò <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>elius, quo communius.</q>
+            <p>By <hi>Nathaniel Lomax,</hi> Student in Physick.</p>
+            <p>Printed by <hi>J. C.</hi> for the Author, 1675.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>With Allowan<gap reason="illegible" resp="#murp" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:207047:2"/>
+            <pb facs="tcp:207047:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:207047:3"/>
+            <pb n="1" facs="tcp:207047:3"/>
+            <head>To the Judicious Reader.</head>
+            <p>AS there is n<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> new thing under the Sun, so neither w<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll I apologize for the publish<g ref="char:EOLhyphen"/>ing of these, in any other than the old way, <hi>viz.</hi> the importunity of Friends, which though it be but a blown-upon Excuse, yet it carries with it a sound truth, as well as the <hi>Antient</hi> Medicine (I here recommend) does most cer<g ref="char:EOLhyphen"/>tain Vertues.</p>
+            <p>And, I faithfully declare, that it was not only the Vulgar who had formerly experimen<g ref="char:EOLhyphen"/>ted this Pill, that mov'd me, but also <hi>Eminent</hi> Artists in Physick that urg'd me to it, as well for their own as their Patients health; since they, of late, knew not elsewhere to get it faithfully prepar'd.</p>
+            <p>For, there is a Pill call'd <hi>Ex duobus,</hi> mista<g ref="char:EOLhyphen"/>ken and sold by the Apothecaries, for this of <hi>Delawn</hi>'s, whereas, that <hi>Ex duobus</hi> (being but of two Ingredients) hath those two (yet not of equal quantities) and above twenty more; and these twenty, not at all, or very little Purgative; yet so suited, so contrived and discreetly fitted to the <hi>Catharticks,</hi> that the Correctives and gentle Purgatives (which seem to allay and lessen those two) strangely strengthen them.</p>
+            <p>Which unheard-of Effects consider'd, we
+<pb n="2" facs="tcp:207047:4"/> cannot but conclude this peerless Pill to be equal<g ref="char:EOLhyphen"/>ly miraculous in its extraordinary Vertues: being so closed and adapted to the very Nature of Man, that 'tis a real Remedy, and no less easie than absolute.</p>
+            <p>The Right receipt whereof (waving the wa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of its curious Composure) I shall <hi>ingenuously</hi> declare, to the <hi>Ingenious</hi> Inquirer. But should I be free, and conceal nothing, I should have the less reason to suspect a <hi>Rival</hi> in this my retail'd Enterprize; where every person is as welcom<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for <hi>Six pence</hi> as Six shillings.</p>
+            <p>For, he that shall conscientiously prepare thi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Pill, with <hi>choice</hi> Ingredients, and manage th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Mixture thereof, with such art and skill such elaborate care and toyl, as is really requi<g ref="char:EOLunhyphen"/>site, shall have small encouragement (if no<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> spur'd on with Charity) to interpose in th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Sale thereof.</p>
+            <p>And I can make it appear upon two or thre<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the Artists Oaths (Sacramental) yet living who in <hi>Delaun</hi>'s days prepar'd it for him, an<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of whom I obtain'd this <hi>Rare Receipt,</hi> Th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> there is <hi>one</hi> (only) Ingredient in this <hi>Pos<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>hume Pill,</hi> that doubles its Price (as well<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> multiplies its Vertues) which <hi>Aromatick, Co<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dial Balsam</hi> (were it left out) yet the Medici<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> would be as excellent as any other extant.</p>
+            <p>But since this grand Ingredientis so curio<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> a Corrector of the rest, and gives so sweet<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:207047:4"/> Odour, that 'tis more like a <hi>Pomander</hi> than a <hi>Pill;</hi> insomuch, that persons most averse to Physick (who see and smell) cannot choose but swallow it, (for that welcome scent that so comforts the Brain, perswades the Stomach al<g ref="char:EOLhyphen"/>so to participate of its diffusive Vertues) it therefore cannot, must not be omitted.</p>
+            <p>And, that this Rarity may be really right, I my self prepare it (together with the whole Medicine) with my own hands, justly, consci<g ref="char:EOLhyphen"/>entiously; and am free to do it in the view of any honest Artist.</p>
+            <p>And I declare that there's none of this Bal<g ref="char:EOLhyphen"/>sam now to be bought in <hi>England,</hi> but what comes from beyond Seas; which I do not, I dare not trust to.</p>
+            <p>And this, as well as any thing in this Tract written, I am ready verbally to aver, justifie, and dispute, with any <hi>Momus</hi> whatsoever.</p>
+            <p>And <hi>Delaun</hi> himself (another <hi>Longaevus Iäpis</hi>) who liv'd neer an hundred years, and di'd worth as many Thousand pounds) would often say, that this his<note place="margin">
+                  <q>
+                     <p>— Spargitq▪ salubres Ambrosiae succos &amp; o<g ref="char:EOLhyphen"/>doriseram Panaceam,</p>
+                     <p>Fovit câ vulnus lymphâ longaevus Iapis.</p>
+                     <bibl>
+                        <hi>Virg. AEnead. lib.</hi> 12.</bibl>
+                  </q>
+               </note>
+               <hi>Panacean</hi> Pill <hi>added to his days,</hi> but not to his E<g ref="char:EOLhyphen"/>state; nor was he so kinde to this Kingdom, as to dis<g ref="char:EOLhyphen"/>perse and dispose it to sale, in all its Coun<g ref="char:EOLhyphen"/>ties, for the good of the <hi>Poor;</hi> which I now have undertaken, my Designe being to be as
+<pb n="4" facs="tcp:207047:5"/> active in undeceiving the world, as <hi>Empericks</hi> have been in deluding it.</p>
+            <p>My Original knowledge in Physick, I ac<g ref="char:EOLhyphen"/>knowledge to Pharmacie, being bred in that Profession, under that <hi>Great Inquirer</hi> into Na<g ref="char:EOLhyphen"/>ture (and who first found out the Circulation of the Bloud) Dr. <hi>William Harvey,</hi> as his Apothecary: And (grounded on his Precepts, Practice and Institutions) have, with no less delight than Charity, studied and administred Physick for about twenty years, with a liberal hand to the Poor, and making no advantage of the Rich; and now attempting only to pre<g ref="char:EOLhyphen"/>serve, not get an Estate.</p>
+            <closer>
+               <dateline>
+                  <hi>From my Laboratory and Habitation at the signe of</hi> Delaun<hi>'s head in</hi> Black<g ref="char:EOLhyphen"/>fryers, London, <date>
+                     <hi>May 1. 1675.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <epigraph>
+               <q>Carpere vel noli nostra, vel ede tua.</q>
+            </epigraph>
+         </div>
+         <div type="encomium">
+            <pb n="5" facs="tcp:207047:5"/>
+            <l>SO shone the Sun, and <hi>Python</hi> did destroy,</l>
+            <l>As now those ills which mankinde do annoy</l>
+            <l>You conquer, since these Arts you do employ.</l>
+            <closer>
+               <signed>A. OLDIS.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <l>QƲaint Epithites, Rhetorick, Eloquence,</l>
+            <l>In graceful style, Encomiums commence</l>
+            <l>Of great <hi>Delaun;</hi> but all fall short; <hi>his Pill</hi>
+            </l>
+            <l>Speaks its own worth, more than the Authors Quill.</l>
+            <l>Grant one word more, spoke with <hi>integrity:</hi>
+            </l>
+            <l>The Medicine's choice, and manag'd <hi>faithfully.</hi>
+            </l>
+            <closer>
+               <signed>
+                  <hi>EDWARD MOLINS, Shoe-lane London,</hi> Chyrurgeon.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <l>
+               <hi>DElaun</hi> reviv'd! blest news! for sure that name</l>
+            <l>Revives both Rich and Poor <hi>(if sick or lame.)</hi>
+            </l>
+            <l>The Rich take less, but better Physick; <hi>Poor</hi>
+            </l>
+            <l>Can purchase now, Quacks barr'd them from't before.</l>
+            <l>What! a sufficient Purge for six pence sold?</l>
+            <l>Enricht within with Balsom, gilt with Gold:</l>
+            <l>That frees the tortur'd head from ach and grief,</l>
+            <l>And to the pensive heart, gives like relief;</l>
+            <l>The subtle <hi>Pox</hi> and <hi>Dropsie</hi> quite roots out;</l>
+            <l>The lazy <hi>Scurvie,</hi> and the sturdy <hi>Gout!</hi>
+            </l>
+            <l>Whatever Malady mankind assails,</l>
+            <l>This matchless Med'cine cures, and never fails.</l>
+            <l>Blest news indeed! this peerless Pill let's try:</l>
+            <l>What's six pence Sirs? let't go, rather than die.</l>
+            <l>Its Vertues urge the sick, its looks and smell</l>
+            <l>Tempt all to take it, whether sick or well.</l>
+            <closer>
+               <signed>
+                  <hi>ISAAC TAYLOR, Edu<g ref="char:EOLhyphen"/>cated under Dr.</hi> Delaun.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb n="6" facs="tcp:207047:6"/>
+            <l>JAm{que} opus exegit <hi>Lomax</hi> quia <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> edit</l>
+            <l>
+               <hi>Launaei:</hi> aegrotis <hi>gratum</hi> opus <hi>indigenis:</hi>
+            </l>
+            <l>Divitibus <hi>gratum:</hi> (fautor Deus ipse medelae:</l>
+            <l>Pilula <hi>Launaei grata,</hi> perennis erit.</l>
+            <closer>
+               <signed>
+                  <hi>WILLIAM HILL, Edu<g ref="char:EOLunhyphen"/>cated under Dr.</hi> Oldis.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <l>WHat's this? <hi>Correctives</hi> (that seem to allay</l>
+            <l>
+               <hi>Catharticks</hi>) quicken! Pills that nere decay</l>
+            <l>Most costly, cheapest! <hi>one,</hi> purge more than <hi>ten!</hi>
+            </l>
+            <l>Potent! Peerless! matchless Medicine!</l>
+            <l>Safe! Panacean! Sweet! strange Mystery</l>
+            <l>Couch'd in <hi>Delaun</hi>'s and th' Author's Pharmacie!</l>
+            <l>Yet, prov'd by Artists true, and justifi'd.</l>
+            <l>Go on great Soul, sure Heaven's on thy side.</l>
+            <closer>
+               <signed>A. BALDWYN M. D.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:207047:6"/>
+            <div type="part">
+               <head>DELAƲN <hi>Reviv'd,</hi> &amp;c.</head>
+               <p>I Cannot but take notice of the ridiculous humour and levity of this Age, in mens Doting on, and gaping after Novelties, insomuch that Errour and Non-sense, in a modish Garb, is now adays become more eligible than true knowledge in an Antient dress. And this notorious folly is so grafted and insinuated in the minds, especially of the Vulgar, that 'tis not only practised in their Habits, Postures, Diet and Discourse, but al<g ref="char:EOLhyphen"/>so in matters of greates<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moment <hi>(viz.)</hi> their <hi>Bodily health,</hi> the greatest Jewel upon earth.</p>
+               <p>For, they are no sooner sensible that their present <hi>Malady</hi> requires Remedy, but they reckon up how many hundreds this or that upstart <hi>Impostor,</hi> hath inserted in his Papers to have been cur'd by his own invented <hi>Quintessence, Panpharmacon,</hi> or other cramp<g ref="char:EOLhyphen"/>nam'd <hi>Arcanum.</hi> And, he that hath pre<g ref="char:EOLhyphen"/>tended to most Cures, 'tis no matter whether he hath really done any or not, is most cre<g ref="char:EOLhyphen"/>dited, most admired. For, <hi>Why should not that cure me</hi> (say these credulous Creatures) <hi>that cur'd so many hundreds?</hi> never consul<g ref="char:EOLhyphen"/>ting how many thousands it hath kill'd, nor
+<pb n="8" facs="tcp:207047:7"/> how many millions <hi>Dame Nature</hi> hath re<g ref="char:EOLhyphen"/>stored to perfect health, from most dangerous Diseases, without one Grain of Physick; which if a confident Quack had success in the seeming Cure but of half a score, the Reputation must be ascrib'd to himself, and their Names (with ten times more that he never saw or heard of) together with their Diseases, publickly put in print, to fill up his impertinent Pamphlet, to the Disrepute and Damage of many worthy persons.</p>
+               <p>For, there are several Reasons why several men and womens Names, Abodes and Disea<g ref="char:EOLhyphen"/>ses should not be published, especially by the scandalous Pens of illiterate Empericks. And certainly 'tis the Patients ignorance of the Laws against such Libellous offenders, only, that suspends their punishment.</p>
+               <p>As to the great number of Names of per<g ref="char:EOLhyphen"/>sons pretended to be cur'd by these Ill men, and copious Copies of vouching Epistles, in<g ref="char:EOLhyphen"/>serted in their Bills and Books, you shall not hear of the name of so much as one person that ever di'd, miscarried, or relaps'd: no, nor a word to any such purpose, nor a syl<g ref="char:EOLhyphen"/>lable of the sad Effects and dangerous Con<g ref="char:EOLhyphen"/>sequences of their fatal Physick: the Dead cannot, and their living friends are asham'd to publish them.</p>
+               <p>I must confess, 'twere a Wonder (amongst
+<pb n="9" facs="tcp:207047:7"/> so many thousands that have been tempt<g ref="char:EOLhyphen"/>ed to meddle with their Medicines) if some of them should not happen to be cur'd, or pretend to be so; if some of them should not pen a Complement in praise of their Do<g ref="char:EOLhyphen"/>ctor, but that perhaps not so much to pro<g ref="char:EOLhyphen"/>mote his interest as their own; the diseased (next to the indigent) being evermore the most unwelcome Guests.</p>
+               <p>But, suppose none of them should do so, how easie is it to contrive it? for, what Quack cannot Create correspondents in all Countries to compose literal Encomium's of his learned friend and Physitian? whereas (in truth) many of those who pretend to much in their Bills and Books, are so far from any tolerable literature in the <hi>Greek</hi> Tongue, which is fundamentally necessary for the understanding of the Art of Physick, that they never understood one line of <hi>Latine;</hi> nor can they, without help, pen their own Papers.</p>
+               <p>Pardon me, some of them doubtless do, and I dare swear 'tis their own, 'tis so like them; yet such <hi>popular</hi> Non-sense (the more's the pity) <hi>Vends</hi> best with the Vulgar, and <hi>Ignorance</hi> is now adays become as necessary a qualification in Physick, as it us'd to be in Preaching.</p>
+               <p>But, what need they the help of any <hi>Greek</hi>
+                  <pb n="10" facs="tcp:207047:8"/> or <hi>Latine</hi> Authors? for the greatest Dunce, the most nonsensical Ignoramus amongst them, will tell you that he knows more than <hi>Galen, Aristotle,</hi> or <hi>Hippocrates,</hi> those Gy<g ref="char:EOLhyphen"/>ants in <hi>Physick</hi> and <hi>Philosophy,</hi> to whom the most eminent Physitians of this Age, will own themselves to be but Dwarfs, and, that they stand but on their shoulders; and that (notwithstanding the undeniable late new improvements in Physick) most of the Rules, Methods and Medicines of the <hi>Antients</hi> are still of necessary use and consequence, in the curing of Diseases; Nay, of the very <hi>Scur<g ref="char:EOLhyphen"/>vie,</hi> which these <hi>Pseudo-Chymists</hi> so much pretend to the Cure of; and prate of the Newness of that Disease, as it were but of yesterday, and that their new-invented Me<g ref="char:EOLhyphen"/>dicines only, can cure it.</p>
+               <p>But, the <hi>Truth</hi> is, and all able modern Physitians concur, that the <hi>Scorbute, Scelo<g ref="char:EOLhyphen"/>tyrbe,</hi> or <hi>Scurvie,</hi> hath been as antient in <hi>England,</hi> and other maritime Countries, as the very first Inhabitants: And, that ever since men were mortal, and subject to Di<g ref="char:EOLhyphen"/>seases, the Climate and Temperature of the Air did dispose the blood and humours of those who breath'd it, to that Discrasie or ill temper which we now call the <hi>Scurvie,</hi> and so rendred it a <hi>Malady</hi> Epidemical. Which Distemper, and all others, these men of Con<g ref="char:EOLhyphen"/>fidence
+<pb n="11" facs="tcp:207047:8"/> pretend to cure with their own new invented <hi>Arcanum's,</hi> which, for the most part, are composed of <hi>Mercury,</hi> which is <hi>Quicksilver,</hi> or <hi>Antimony,</hi> or both: the Ad<g ref="char:EOLhyphen"/>ministration whereof, too often brings slight Distempers, into dangerous and mortal Di<g ref="char:EOLhyphen"/>seases.</p>
+               <p>Nay, I dare affirm and justifie, that <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> though never so carefully kill'd, (as they call it) which is commonly made up into Pills, with other <hi>Catharticks</hi> or Purging Ingredients (and given as a Specifick against <hi>Gonorrhaea's</hi> and all <hi>Venereal Distempers</hi>) does absolutely poyson the body, and infect it with the very <hi>Pox,</hi> (if I may properly so say) and makes more work for Chyrurgeons and Hospitals, than <hi>Mars</hi> in his Tragick, and <hi>Venus</hi> in her most lascivious Dress.</p>
+               <p>'Tis dangerous <hi>Mercurial</hi> Medicines that torture the poyson'd Patient with horrid Pains, Pangs, and intolerable Twinges in the Head, Shoulders, Arms, Thighs, Legs, and other parts. 'Tis <hi>Mercury,</hi> that hellish Com<g ref="char:EOLhyphen"/>panion, that lurks, sometimes many years, in the languishing Body, flying about till at last it fouls the Bones, sinks the Nose, and pro<g ref="char:EOLhyphen"/>duces such sad and dismal Effects.</p>
+               <p>I further assert, 'tis a gross Errour in those who think they can allay, or carry off this Devil with any kinde of Concomitant <hi>Ca<g ref="char:EOLhyphen"/>thartick,</hi>
+                  <pb n="12" facs="tcp:207047:9"/> though never so skilfully managed: for Eye-experience (that infallible mistriss) hath often shew'd us, that in open'd Bodies, the very <hi>Mercury (in specie)</hi> hath been left be<g ref="char:EOLhyphen"/>hind, reunited into the bigness of pins heads, of several sizes, in several parts of the poy<g ref="char:EOLhyphen"/>son'd Carcase. Whenas it was (nevertheless) as carefully and judiciously kill'd, and mixt with as suitable Purgatives, as the most exqui<g ref="char:EOLhyphen"/>site Artist could contrive.</p>
+               <p>Some of these miserable mortals were judged to die of a <hi>Lethargy,</hi> some of the <hi>Gout, Rheumatism, Palsie,</hi> others of <hi>Frenzy, Griping</hi> in the <hi>Guts,</hi> &amp;c. when, in truth, 'twas nothing else but meer <hi>Mercury</hi> that murdered them. It is an old saying, that <hi>Mercury</hi> cures the <hi>Pox,</hi> but what cures <hi>Mercury?</hi>
+               </p>
+               <p>But, no wonder that crude <hi>Mercury</hi> should be so unwelcome a Guest, when that deli<g ref="char:EOLhyphen"/>cate Preparation call'd <hi>Mercurius dulcis,</hi> fam'd for its harmless and easie operation, should, in some Constitutions, not be admini<g ref="char:EOLhyphen"/>stred without apparent danger, <hi>(viz.)</hi> in such bodies (saith the learned <hi>Sennertus</hi>) whose Stomachs and Bloud abound with fluid salts, and are troubled with a pungent sharp Liquor or Juice, as those generally are that have the <hi>Scurvie.</hi>
+               </p>
+               <p>To such, I say, it may probably fall out to be of ill consequence, since there is danger
+<pb n="13" facs="tcp:207047:9"/> that in the Stomach (which abounds with <hi>Vi<g ref="char:EOLhyphen"/>triolick</hi> Salts) the dulcified <hi>Mercury,</hi> (by such extreme <hi>Acidity</hi>) may be again reduced to be <hi>Corrosive.</hi>
+               </p>
+               <p>And the Ingenious Dr. <hi>Castle,</hi> in his <hi>Chymi<g ref="char:EOLhyphen"/>cal Galenist</hi> saith, he hath observed that there is less danger (in this dangerous Medicine) when administred to Children, (whose sto<g ref="char:EOLhyphen"/>machs abound with Crudities) than to riper aged persons, who are troubled with an au<g ref="char:EOLhyphen"/>stere sharpness in their Liquours.</p>
+               <p>How dangerous then is it? and who but mad men will make use of these <hi>Mercurial</hi> Medicines? which, if they chance not to pass upwards or downwards, but stick in the coats of the Stomach, or be intangled in any tough viscous matter, the miserable Patient can hardly escape with life.</p>
+               <p>No honest Physitian will deny any act of Charity in his Directions to the poorer sort of people; nor any Apothecary extort so much of them for safe approved Medicines, as these <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or off-scums of mankind do for their poyson'd Potions, Pills, and other their destructive Doses, which reach even to Posterity, destroying Nature, wasting the Genital juice, and affecting Mankind with incurable <hi>Sterility.</hi>
+               </p>
+               <p>And these (forsooth) these whimsical <hi>Quacksalvers</hi> call their <hi>Secrets:</hi> as if they
+<pb n="14" facs="tcp:207047:10"/> were the better for being so: no certainly, those Remedies must needs be best, that are no Secrets; but best known, as being confirmed, by <hi>antient</hi> Authority, and prescribed by the joynt-consent of a <hi>Colledge,</hi> or the chief of them, and established by the unerring and in<g ref="char:EOLhyphen"/>fallible Experience of the world.</p>
+               <p>Such a safe well-known <hi>Galenick</hi> Medi<g ref="char:EOLhyphen"/>cine, (no single conceipt or proud product of my own brain) I now offer to the world, it being the very same Pill that was so long, and with such grand applause sold in <hi>Black<g ref="char:EOLhyphen"/>fryers</hi> by Dr. <hi>Delaun,</hi> and approved of by Sir <hi>Walter Rawleigh,</hi> Sir <hi>Theodore Mayern,</hi> Dr. <hi>Prujean,</hi> and others of Eminence, and of the most Learned Society of Physitians in the world.</p>
+               <p>Those Oracles deem'd this Pill, as the choice general Medicine in the Universe. And 'tis at this day held sacred for its Vertues, throughout <hi>France,</hi> insomuch that the Do<g ref="char:EOLhyphen"/>ctors and Chyrurgeons of the Hospitals there, have experimentally concluded with the most knowing ones of this Kingdom, that no <hi>Cathartick</hi> in the world operates so kind<g ref="char:EOLhyphen"/>ly on the offensive humours, in all Distem<g ref="char:EOLhyphen"/>pers, as this single <hi>Six penny Pill</hi> doth, nor thrusts forth the Excrements with such ease and safety, without raking the Body, separa<g ref="char:EOLhyphen"/>ting the <hi>Morbifick</hi> matter from the Mass of Bloud.</p>
+               <pb n="15" facs="tcp:207047:10"/>
+               <p>I say, such a safe <hi>well-known</hi> Medicine I commend to the Kingdom, for the good of straightned Purses, that cannot purchase whole Boxes at Three or Four shillings price; and to commode the better and graver sort, who love not to be loaded with multitudes of Medicines, nor like the infatuated Rabble catch at every <hi>new Conceit,</hi> or pretended Se<g ref="char:EOLhyphen"/>cret; whenas (indeed) <hi>there is no new thing under the Sun:</hi> besides, there's many good people that may spare Six pence or a shil<g ref="char:EOLhyphen"/>ling, for a Purge, when they cannot well part with Four or Five.</p>
+               <p>As to the infinite Cures it hath really done, should I attempt particularly to enumerate but the tenth part of a Tithe of them, 'twould prove a Task impossible; or should I publish any their Names, I may be offensive, and in both these impertinently voluminous.</p>
+               <p>But since <hi>Delaun</hi>'s <hi>Pill</hi> hath been of late in part forgot, through his Death, and conse<g ref="char:EOLhyphen"/>quently its great Vertues lie latent from the Younger sort of this City, but especially from almost all remote Dwellers; 'twould be a sin to be silent, and not to speak to at least some of them; but of those as Concise as may be.</p>
+               <div type="section">
+                  <head>Distempers of the Head.</head>
+                  <p>First, in a most principal Nature, it is a most Infallible Remedy against all <hi>Aches, Twinging pains,</hi> and other Distempers in the
+<pb n="16" facs="tcp:207047:11"/>
+                     <hi>Head</hi> and animal parts, <hi>(viz.)</hi> the <hi>Apoplexy, Epilepsie, Giddiness, Palsie, Lethargy, Melan<g ref="char:EOLhyphen"/>choly, Sleepiness, Convulsions, Catarrhs,</hi> or distillations of salt sharp matter upon the <hi>Lungs.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Gums.</head>
+                  <p>It is an approved Remedy against all <hi>Tu<g ref="char:EOLhyphen"/>mours, Aches</hi> and <hi>Pains</hi> that affect the Gums or Jaws in the time of a tormenting <hi>Tooth<g ref="char:EOLhyphen"/>ach,</hi> by fortifying the <hi>Nerve,</hi> and ridding it of that Rest-opposing <hi>Rheum.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Deafness.</head>
+                  <p>It is also potently prevalent in the Cure of <hi>Deafness</hi> and all Auricular <hi>Deficiencies,</hi> strengthning the <hi>Auditory Nerve</hi> and <hi>Mem<g ref="char:EOLhyphen"/>brane,</hi> easing <hi>Pains, Drumming</hi> and <hi>Singing</hi> noise in the uneasie Head, curing all <hi>Disorders</hi> that obstruct the Sense of Hearing.</p>
+               </div>
+               <div type="section">
+                  <head>Sore Eyes.</head>
+                  <p>It highly helps and strengthens the <hi>Sight,</hi> fortifies the <hi>Optick Nerve,</hi> even to admiration, rectifying all <hi>Running Rheums, Misty Dulness, Inflammations,</hi> and other <hi>Weaknesses</hi> in that tender part; insomuch that pretenders to the Cure of Distempers in the <hi>Eyes, Ears,</hi> or <hi>Teeth,</hi> and that knew this Medicine, never us'd to be without it.</p>
+               </div>
+               <div type="section">
+                  <head>Hard Drinking.</head>
+                  <p>It settles the <hi>Brain,</hi> asswages all irregular and tumultuous <hi>Ebullitions</hi> excited in the a<g ref="char:EOLhyphen"/>nimal
+<pb n="17" facs="tcp:207047:11"/> faculties; it strengthens the <hi>Memory,</hi> and carries off all sottish <hi>Swimming, Dizzi<g ref="char:EOLhyphen"/>ness, Sowerness</hi> of <hi>Breath,</hi> and other Indisposi<g ref="char:EOLhyphen"/>tions occasion'd by <hi>Excessive drinking.</hi>
+                  </p>
+                  <p>And by this it's appropriated power to the <hi>Brain</hi> and <hi>animal</hi> parts, it equally Lords it ore the <hi>Vital</hi> and <hi>Natural</hi> faculties.</p>
+               </div>
+               <div type="section">
+                  <head>Heart, Stomach.</head>
+                  <p>Its boundless benefits extend to the <hi>Heart</hi> and <hi>Spirits,</hi> to the <hi>Lungs, Liver</hi> and <hi>Spleen:</hi> and by equal prerogative fortifie the <hi>Sto<g ref="char:EOLhyphen"/>mach,</hi> creating there a good Digestion, con<g ref="char:EOLhyphen"/>cocting Crudities, correcting nauseous in<g ref="char:EOLhyphen"/>dispositions to meat, insomuch that the Pa<g ref="char:EOLhyphen"/>tient will sooner want that than an <hi>Eager Appetite.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Lungs.</head>
+                  <p>It is of grand importance and advantage to the <hi>Lungs,</hi> when they are burden'd with a dolorous <hi>Asthma,</hi> mistaken by the Vulgar for a Stoppage in the stomach; for such com<g ref="char:EOLhyphen"/>plain commonly of Pains and Stoppages of the Stomach, when the Lungs are in fault, and too often of the Lungs, when the Stomach is.</p>
+                  <p>It helps <hi>Pthysicks,</hi> and Shortness of breath, Hoarseness, Wheesing in the Throat, and o<g ref="char:EOLhyphen"/>ther Distempers in the Lungs, whether Ulce<g ref="char:EOLhyphen"/>rated or otherwise.</p>
+               </div>
+               <div type="section">
+                  <head>Fits of the Mother.</head>
+                  <p>'Tis sure (and hath ever been successful) in
+<pb n="18" facs="tcp:207047:12"/> the Cure and prevention of that dismal Di<g ref="char:EOLhyphen"/>sease called <hi>Fits</hi> of the <hi>Mother;</hi> When some<g ref="char:EOLhyphen"/>thing like a Globe seems to rise up with vio<g ref="char:EOLhyphen"/>lence towards the Throat, accompanied with a gnawing pain in the Stomach, trembling at the Heart, despairing Voice, falling down for Dead, and other sad Symptoms.</p>
+                  <p>But, note that this Pill is not to be taken in the time of the Fit, but at other seasons, <hi>(viz)</hi> a day or two after, and continued two or three times a week for a fortnight together.</p>
+               </div>
+               <div type="section">
+                  <head>Barrenness.</head>
+                  <p>To prevent <hi>Abortiveness</hi> and <hi>Barrenness,</hi> it hath been well Experienced, both in this City and elsewhere, that no Medicine hath succeeded like it; which may be made ap<g ref="char:EOLhyphen"/>pear by, and is well known to, many Mid<g ref="char:EOLhyphen"/>wives, as well as other persons of Eminence.</p>
+                  <p>The <hi>Greensickness,</hi> stoppages of Terms, Weakness in the Back, and other Diseases in<g ref="char:EOLhyphen"/>cident to women: The <hi>Stone-collick,</hi> invo<g ref="char:EOLhyphen"/>luntary Issuing of <hi>Ʋrine, Ʋlcers</hi> in the Blad<g ref="char:EOLhyphen"/>der and Kidnies.</p>
+                  <p>All <hi>Agues, Chilness</hi> in the Bones, <hi>Itches, Tetters,</hi> Pale and discolour'd Lips, <hi>Griping</hi> in the <hi>Guts.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Pimples.</head>
+                  <p>And nothing certainly is a more prope<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Purge to check that lawless humour that bolt out into the face with a fiery Fury, dartin<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <pb n="19" facs="tcp:207047:12"/> out blackish, red <hi>Pustules, Pimples,</hi> and un<g ref="char:EOLhyphen"/>comely <hi>Carbuncles;</hi> for the unctious essence of this <hi>piercing Pill</hi> cleers the Bloud of that offensive humour, challenging an undeniable Cure in course.</p>
+               </div>
+               <div type="section">
+                  <head>Helps the Sense of Smelling.</head>
+                  <p>It comforts the Brain, and is assistant to the Sense of <hi>Smelling;</hi> hastens the Cure of old <hi>Sores, Cancers, Gangrens, Lameness, Bruises,</hi> &amp;c. which several Chyrurgeons of this City must thankfully acknowledge, being forced to this Medicine, when rebellious Sores will not yield to outward Applications.</p>
+                  <p>
+                     <hi>Tunbridge, Epsom, Bath,</hi> and other Waters, whether they operate by <hi>Stool, Ʋrine,</hi> or <hi>Sweat,</hi> this incomparable Pill is of singular use, taken as a preparative two or three times be<g ref="char:EOLhyphen"/>fore: and of equal benefit in the time of drinking them two or three times a week, as well as of necessity afterwards, to carry off the Dregs, Feculencies, and earthy Impurities that may be left in the Body, supplying those Defects, and perfecting those Cures which weak waters could not reach to.</p>
+               </div>
+               <div type="section">
+                  <head>Seamen.</head>
+                  <p>'Tis a necessary Companion for <hi>Seafaring</hi> persons: and it hath been approved in the <hi>West</hi> and <hi>East-Indies,</hi> the <hi>Streights,</hi> and other parts, for that it n<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ver decays in its Vertues, and is of as important necessity to those that
+<pb n="20" facs="tcp:207047:13"/> dwell neer the Sea-side, it being so Soveraign a Remedy against the <hi>Scurvie.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Spleen.</head>
+                  <p>The <hi>Spleen,</hi> 'tis so friendly, and of such im<g ref="char:EOLhyphen"/>portant use to that Bowel, that it helps to rarifie the Bloud, and renders it brisk and lively, free from Curdling and Stagnation, fit to circulate, for the better supply of the Natural, Vital, and Animal constitutions.</p>
+               </div>
+               <div type="section">
+                  <head>Gout.</head>
+                  <p>The <hi>Gout,</hi> which too often assassinates mi<g ref="char:EOLhyphen"/>serable Mortals with intolerable Tortures, whether in the Hands, Feet, or other parts, it doth not only allay, but eradicate and drive out of the infected Joynts, leaving behind it a comfortable warmth in those parts, as a guard against the future fury of that unwelcome E<g ref="char:EOLhyphen"/>nemy.</p>
+               </div>
+               <div type="section">
+                  <head>Scurvie.</head>
+                  <p>The <hi>Scurvie,</hi> which crowds it self into the acquaintance of almost all, from the Prince to tne Peasant, from the Madam to the Milk<g ref="char:EOLhyphen"/>maid, and consists in the Blood's being over<g ref="char:EOLhyphen"/>charged with fixed or fluid Salts, and thereby degenerated from its Spirituous Balsamick condition, into a sharp, salt, and austere Li<g ref="char:EOLhyphen"/>quour, producing disorderly <hi>Fermentations, Stoppages, Weariness, Pursiness, Difficulties</hi> and <hi>Shortness</hi> of <hi>breathing;</hi> defects in <hi>Moti<g ref="char:EOLhyphen"/>on, Palpitation, Spots, Rawness</hi> in the <hi>Gums,
+<pb n="21" facs="tcp:207047:13"/> Soreness,</hi> and sometimes little <hi>Ʋlcers</hi> in the Mouth, <hi>Scurfs, Pains</hi> in the Head, <hi>Swelling</hi> in the Limbs, varieties of <hi>shifting Pains,</hi> and at uncertain hours, nay in the warm Bed and night-time, (which opportunity the <hi>Pockie Pest</hi> chiefly challenges) when the Conscious suspect, and the Innocent are surpriz'd at this repose-opposing Malady.</p>
+                  <p>This excellent <hi>Never-failing Remedy</hi> carries off, and cures, and that in a short time, even to miracle, above any other <hi>Cathartick.</hi>
+                  </p>
+                  <p>For it causes a true and just Fermentation in the Bloud, maintains a regular Flame in the Heart, and gives a seasonable Supplement, with a soft Juice and a well-rectified animal Spirit. And by such amicable Efficacie and friendly close with Nature, diffuses its all-hea<g ref="char:EOLhyphen"/>ling Vertues to the Bowels, and most remote and hidden recesses thereof.</p>
+               </div>
+               <div type="section">
+                  <head>Dropsie.</head>
+                  <p>The <hi>Dropsie,</hi> whether <hi>Ascites, Tympanites,</hi> or <hi>Anasarca,</hi> it fully frees from offensive ful<g ref="char:EOLhyphen"/>ness of aqueous Impurities, dreyning the Legs, Belly and Body, as well as (sometimes) the Brain, from that watery weakness.</p>
+               </div>
+               <div type="section">
+                  <head>Jaundies.</head>
+                  <p>And 'tis of equal Efficacie against the <hi>Jaun<g ref="char:EOLhyphen"/>dies,</hi> when discoloured Eyes, seconded with fainting Obstructions, give too much cause of jealousie of obtaining their wonted looks.
+<pb n="22" facs="tcp:207047:14"/> This Pill purges, purifies, and opens all Op<g ref="char:EOLhyphen"/>pilations, reducing those lost Luminaries brisk and lively, in a well-cur'd Countenance.</p>
+               </div>
+               <div type="section">
+                  <head>Running of the Reins.</head>
+                  <p>The <hi>Gonorrhaea,</hi> or <hi>Running of the Reins,</hi> swelling <hi>Bubo's</hi> in the Groyn, <hi>Tumours</hi> in the Testicles, <hi>Ʋlcers</hi> in the Privities, <hi>Warts,</hi> weep<g ref="char:EOLhyphen"/>ing remainders by ill-begun and uneffected Cures, with other usual accidents, this <hi>Ʋn<g ref="char:EOLhyphen"/>equall'd Pill</hi> most certainly and safely per<g ref="char:EOLhyphen"/>forms; rooting out that <hi>Venereal Venom</hi> so effectually, that there's no fear of any subse<g ref="char:EOLhyphen"/>quent Relapse, or danger of a confirmed <hi>Lues.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The POX.</head>
+                  <p>Contracted by contagious Whoredom, and Coition with infected persons, (for I deny, contrary to some Assertions, that it can be o<g ref="char:EOLhyphen"/>therwise got) with all its miserable attendants, Nocturnal <hi>Pains, Nodes,</hi> dreadful <hi>Memoran<g ref="char:EOLhyphen"/>dums</hi> in the tortur'd Brain, though settl'd in the Bones, grissle of the Nose, and Palate; and though that pernitious <hi>Pest</hi> hath corrupt<g ref="char:EOLhyphen"/>ed the whole mass of Bloud, and be compli<g ref="char:EOLhyphen"/>cated with a <hi>Rheumatism, Gout, Scorbute,</hi> or o<g ref="char:EOLhyphen"/>ther contumacious accident, and the body poyson'd with <hi>Quick silver-Medicines,</hi> this <hi>Antimercurial</hi> and <hi>Antivenereal Pill,</hi> by de<g ref="char:EOLhyphen"/>grees, subdues, quells, wastes, and utterly ex<g ref="char:EOLhyphen"/>tirpates Root and Branch, causing Fruitful<g ref="char:EOLhyphen"/>ness and a clear Complexion in both Sexes;
+<pb n="23" facs="tcp:207047:14"/> furnishing the Bloud with an amicable <hi>Nitre,</hi> and rendring it as sweet as Milk; affording a vital Oyl to the Lamp of the heart, in order to the long life and well-being of mankind, <hi>Quantum in Medicinâ.</hi>
+                  </p>
+                  <p>
+                     <hi>Quid multa?</hi> it serves safely on all Occa<g ref="char:EOLhyphen"/>sions, Constitutions, Sexes, as well to the sound to prevent, as the sick to cure a Disease.</p>
+                  <p>Much more might be said in applause of this <hi>Posthume Pill;</hi> for since 'tis granted to be the <hi>Grand Cephalick</hi> in the Universe, it may justly challenge the Appellation of <hi>Catholick</hi> or Universal: for since the Brain and animal Constitution, the <hi>Nervous</hi> juice, and princi<g ref="char:EOLhyphen"/>pal parts, the heart and head, are hereby kept in an equal temper, who can suspect this Prince of Pills to be insufficient in governing the meaner parts of man?</p>
+                  <p>But since <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, I will desist, save that I must speak something of the Nature and Operation of this <hi>matchless Me<g ref="char:EOLhyphen"/>dicine.</hi>
+                  </p>
+                  <p>As every Disease is <hi>contra Naturam,</hi> so there is a certain Antipathy between Nature and purgative Medicines: Wherefore I shall not tell you, as some do (that neither know nor care what they say or do) that any kind of <hi>Cathartick</hi> can be desireable, palatable, or grateful to the Stomach; but, I aver it to be as acceptable to the Stomach as any thing that
+<pb n="24" facs="tcp:207047:15"/> quits a Disease, though perhaps not so plea<g ref="char:EOLhyphen"/>sant as some <hi>Mercurial</hi> ones, that only attenu<g ref="char:EOLhyphen"/>ate the Excrements, slip through the body, and take no Cognizance of, but (by their destructive Atomes) adde to a settl'd Ach.</p>
+                  <p>This <hi>Pill</hi> pierces into the mass of Bloud, and works its Effects by stimulating the fi<g ref="char:EOLhyphen"/>brous parts in the most inward recesses of the Bowels, fighting against, separating and ex<g ref="char:EOLhyphen"/>terminating the Morbifick matter. And in this War between the Remedy and the Di<g ref="char:EOLhyphen"/>sease, it cannot be expected but that the Patient must be sensible of some slight Gripes, Swimming in the Head, Qualms in the Sto<g ref="char:EOLhyphen"/>mach, or other unwelcome Disorder, during this intestine Conflict.</p>
+                  <p>Of <hi>Delaun</hi>'s Personage I shall be silent, since the grateful Company of <hi>Apothecaries</hi> are my Spokes-men. Those Worthies are now erecting his costly, comely Effigies, in their Magnificent <hi>Hall,</hi> to aeternize his never<g ref="char:EOLhyphen"/>dying Name, and grace that goodly place; (all Artists admiring this man for his Medi<g ref="char:EOLhyphen"/>cines sake.)</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="25" facs="tcp:207047:15"/>
+               <head>Directions for taking them.</head>
+               <p>First, I Advise every person to take rather too little than too much; and by the oftener taking a moderate quantity, the Disease is the sooner reach'd to, and admits of a more certain Cure. Besides, there's no danger in this Pill, if it should chance not to work with you; for 'tis of such an wholsome healing nature, that 'tis (then) officiating in the body, as a Balsam, for the salving of some inward Sore.</p>
+               <p>Persons of ordinary Constitutions, or strength of body, may take one of these Pills; the stronger, one and half; persons very young, and those of very weak Constitutions, may try with half or three quarters of a Pill, and by degrees more or less, as they finde, and would have them to work.</p>
+               <p>Take them in the morning in any Liquid thing you think will best drive them down, at any time from three or four till eight or nine; but the earlier the better.</p>
+               <p>You may stay at home, or go abroad; drink, or for<g ref="char:EOLhyphen"/>bear drinking after them, at your pleasure: but in cold weather, a warm Chamber (with tender per<g ref="char:EOLhyphen"/>sons) suits best, as well as warm Liquour, <hi>viz.</hi> either Ale, Broth, Posset, drunk two or three hours after, and in the time of the working.</p>
+               <p>If your affairs require close attendance next day, you may take one going to bed; it may then disturb your Rest, but not hurt your body, so as you do not catch cold.</p>
+               <p>You may therefore use this Pill as you finde it
+<pb n="26" facs="tcp:207047:16"/> agree with your body, and suit with your business.</p>
+               <p>
+                  <hi>Note,</hi> That I do not advise this Pill to Infants, whose tender years cannot have contracted any set<g ref="char:EOLhyphen"/>tled Taint: To such I commend <hi>Cassia, Manna, Syrupe of Roses, Succory,</hi> with <hi>Rubarb,</hi> &amp;c. such le<g ref="char:EOLhyphen"/>nient Laxatives suit best with such tender Stomachs.</p>
+               <p>Nor yet to feeble, feverish, wasted, weak Constitu<g ref="char:EOLhyphen"/>tions, otherwise than in very small quantities; though I aver it to be much more safe, easie, and friendly to Nature, than any other Extant, of such quick and easie Operation.</p>
+               <p>
+                  <hi>Note,</hi> That this Pill is pliable always as Wax, so that you may divide it into twenty parts, if you please, for your convenience to swallow it.</p>
+               <p>Every Pill is, as formerly, gilt with Gold; and for the further convenience of its carriage, and advantage to the Buyer, is now (not formerly) put up single in a little Paper-box, and with every Pill given a printed Paper, briefly declaring its Vertues, and Di<g ref="char:EOLhyphen"/>rections to take it.</p>
+               <p>Yet the Price is no more than Six pence, though it be most costly to the Composer, and most advantagious to the Buyer, of any Pill in the Universe.</p>
+               <p>There is also (always ready, for such whose stur<g ref="char:EOLhyphen"/>dy Maladies require so many) Six of these Gol<g ref="char:EOLhyphen"/>den Pills, put up in a Tin-box, sealed with my Seal; which amounts to Six sufficient Purges, the price Three shillings; and therewith given <hi>(gratis)</hi> this Book, which at the Booksellers is sold for Six pence.</p>
+               <p>I told you before, that this Pill was no Secret, no conceited Whimsie invented by my own, or any other single Judgment, but what hath been approved of by the joynt-consent of Eminent Artists in Physick. Yet I must also tell you, that there's none of these Pills
+<pb n="27" facs="tcp:207047:16"/> (rightly prepar'd) to be had at any Apothecaries shop in <hi>England,</hi> though they all pretend the con<g ref="char:EOLhyphen"/>trary. Some believe, nay will swear, 'tis nothing but <hi>Pill Ex Duobus:</hi> Some guess that there's inter<g ref="char:EOLhyphen"/>mix'd <hi>Aggregativae:</hi> Some <hi>Macri;</hi> others <hi>Aureae, Cochiae,</hi> &amp;c. all really mistaking the Medicine, both in quality and quantity. Yet I acknowledge that several Physitians now dead, and Dr. <hi>Oldis</hi> now li<g ref="char:EOLhyphen"/>ving, and Dr. <hi>Isaac Taylor</hi> of <hi>Newport</hi> in <hi>Stafford<g ref="char:EOLhyphen"/>shire, Cotemporaries,</hi> both bred under the Great <hi>De<g ref="char:EOLhyphen"/>laun,</hi> and one or two Educated under these, know also this my (now) Medicine.</p>
+               <p>And I doubt not, but they will be coadjutants in dispersing it over this Kingdom, for the future saf<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty of the Sick and Lame, who of late, have been liable to be lost; I know not whether rather through the Diabolical diligence of Impostors, or the unactive sloth of true Artists; which, if they do not timely retrieve with equal industry, I must tell them that they are wicked, in not improving their Talent. For 'tis no less a sin not to do good (where we may) than to commit a wilful wickedness.</p>
+               <p>These Pills are exposed to sale by my trusty Friends</p>
+               <list>
+                  <item>Mr. <hi>Henry Eversden,</hi> Bookseller at the Crown neer the Royal Exchange in <hi>Cornbill</hi> (where also this Book (by it self) is sold.</item>
+                  <item>Mr. <hi>Leeson</hi>'s, Barber-chyrurgeon in <hi>Bow-lane,</hi> that incomparable Operator for the Teeth.</item>
+                  <item>Mr. <hi>Mountague,</hi> Tobacconist at the corner of <hi>Shoe<g ref="char:EOLhyphen"/>lane, Fleet-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Hale,</hi> Barber-chyrurgeon in <hi>Ivy-lane</hi> neer <hi>Newgate-street.</hi>
+                  </item>
+                  <item>Mr. <hi>John Hide,</hi> Grocer in <hi>Newgate-street</hi> entring the Market.</item>
+                  <pb n="28" facs="tcp:207047:17"/>
+                  <item>Mr. <hi>Golling,</hi> Barber-chyrurgeon in <hi>Sweetings</hi> Ally by the <hi>Royal Exchange</hi>
+                  </item>
+                  <item>Captain <hi>Grant,</hi> Distiller neer <hi>Bethlem</hi>-gate <hi>More<g ref="char:EOLhyphen"/>fields.</hi>
+                  </item>
+                  <item>Mr. <hi>Edward Hartwell,</hi> Barber-chyrurgeon over a<g ref="char:EOLhyphen"/>gainst the Hoop-Tavern, <hi>Leaden-hall-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Girlington,</hi> Tobacconist neer the Artillery<g ref="char:EOLhyphen"/>ground in <hi>Chiswel-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Holliwel,</hi> Stationer at the Lion in the Wood on little <hi>Tower-hill.</hi>
+                  </item>
+                  <item>Mr. <hi>David Hilliard,</hi> Distiller at the three golden Lions neer the <hi>Hermitage.</hi>
+                  </item>
+                  <item>Mr. <hi>John Holbeech,</hi> at his house in <hi>Poplor;</hi> whom I have also deputed under my Hand and Seal, as my Agent for <hi>Wappen, Ratcliff, Rotheriff, Shadwel, Deptford, Bow, Blackwall, Stepney,</hi> and <hi>Mile-end.</hi>
+                  </item>
+                  <item>Mr. <hi>Brook,</hi> under the St. <hi>Martin</hi>-Tavern in <hi>Blow<g ref="char:EOLhyphen"/>bladder street.</hi>
+                  </item>
+                  <item>Mr. <hi>James Bean,</hi> Stationer over against <hi>Ivy</hi>-bridge in the <hi>Strand.</hi>
+                  </item>
+                  <item>Mr. <hi>Robert Stephens,</hi> Confectioner without <hi>Crip<g ref="char:EOLhyphen"/>ple-gate.</hi>
+                  </item>
+                  <item>Mr. <hi>Barreckler,</hi> Distiller at the Still without <hi>Smith<g ref="char:EOLhyphen"/>field-bars.</hi>
+                  </item>
+                  <item>Mr. <hi>Battersby,</hi> Stationer at <hi>Thavies</hi>-Inne-gate in <hi>Holborn.</hi>
+                  </item>
+                  <item>Mr. <hi>Charles Bandon,</hi> at the three Tuns and Frying<g ref="char:EOLhyphen"/>pan in <hi>Clare-market.</hi>
+                  </item>
+                  <item>Captain <hi>Howkins,</hi> Distiller without <hi>Bishops-gate.</hi>
+                  </item>
+                  <item>Mr. <hi>Rooks,</hi> neer <hi>White-hall-gate,</hi> Haberdasher.</item>
+                  <item>Mr. <hi>William Brittain,</hi> Distiller neer the Faulcon at the <hi>Bankside Southwark.</hi>
+                  </item>
+                  <item>Mr. <hi>Halstead,</hi> Grocer next the Griffin-Tavern in <hi>Chancery-lane.</hi>
+                  </item>
+                  <pb n="29" facs="tcp:207047:17"/>
+                  <item>Mr. <hi>John Yarling,</hi> Haberdasher at the three Horse<g ref="char:EOLhyphen"/>shoos in <hi>Fetter-lane.</hi>
+                  </item>
+                  <item>Mr. <hi>Emot,</hi> Sword-cuttler at the five Bells in <hi>Chan<g ref="char:EOLhyphen"/>cery-lane.</hi>
+                  </item>
+                  <item>Mr. <hi>John Harland,</hi> Grocer next the Cheshire-cheese at <hi>Charing-cross.</hi>
+                  </item>
+                  <item>Mr. <hi>Robert Fage,</hi> at the Sugar-loaf in St. <hi>James</hi>'s Market, Grocer.</item>
+                  <item>Mr. <hi>Bates,</hi> Oylman at the Kings Head in <hi>Tuttle<g ref="char:EOLhyphen"/>street.</hi>
+                  </item>
+                  <item>Mr. <hi>Alking,</hi> Confectioner over against <hi>Creed-church</hi> in <hi>Leaden-hall-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Bletso,</hi> Grocer in <hi>Honey-lane</hi>-market.</item>
+                  <item>At my Country-house, <hi>Shawes,</hi> neer <hi>Godstone</hi> in <hi>Surry,</hi> and in all Counties in <hi>England,</hi> as well as at</item>
+                  <item>My Laboratory, the signe of <hi>Delaun</hi>'s head in <hi>Black-fryers,</hi> where I am resident, and ready to ad<g ref="char:EOLhyphen"/>vise and accommodate all persons in all Distem<g ref="char:EOLhyphen"/>pers.</item>
+               </list>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>I Hereby declare, That I and my Ancestors, and others of the Profession, have often made use of <hi>Delaun</hi>'s Pills with admirable suc<g ref="char:EOLhyphen"/>cess in all Distempers of the Head: and some of us have <hi>now</hi> lately (also) experi<g ref="char:EOLhyphen"/>mented <hi>those</hi> of the Author's composure, and find them equally excellent (and cer<g ref="char:EOLhyphen"/>tainly
+<pb n="30" facs="tcp:207047:18"/> in all respects the very same) with the former: For, I have good reason to be<g ref="char:EOLhyphen"/>lieve, and am well satisfied, that he hath the real Receipt, and is no less skilful, than just, in the mixture and management of this in<g ref="char:EOLhyphen"/>comparable Medicine.</p>
+            <closer>
+               <signed>
+                  <hi>E. Molins</hi> of <hi>Shoe<g ref="char:EOLhyphen"/>lane, London.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Note,</hi> That there's no other Medicine in <hi>England</hi> (now expos'd to publick Sale) that's justifi'd (as this is) by able Artists in Physick and Chyrurgery; as may appear by their several <hi>Encomiums,</hi> in the beginning of this Book.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207047:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
